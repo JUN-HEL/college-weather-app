@@ -1,0 +1,10 @@
+# Files:
+
+# Files types:
+*.env
+*.jpg
+*.jpeg
+
+# Directories:
+node_modules/
+feedback/
